@@ -72,8 +72,3 @@ In a professional setting, these skills can be applied in industries such as gam
 
 This project strengthened my ability to design and develop software using computational graphics techniques. It improved my problem-solving skills, my understanding of 3D environments, and my ability to apply structured development processes.
 
----
-
-## Submission Link
-
-(Add your GitHub repository link here)
